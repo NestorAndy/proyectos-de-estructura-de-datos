@@ -12,3 +12,4 @@ C:\Users\HP\Documents\proyectos de estructura de datos\semana2\obj\Debug\net9.0\
 C:\Users\HP\Documents\proyectos de estructura de datos\semana2\obj\Debug\net9.0\semana2.pdb
 C:\Users\HP\Documents\proyectos de estructura de datos\semana2\obj\Debug\net9.0\semana2.genruntimeconfig.cache
 C:\Users\HP\Documents\proyectos de estructura de datos\semana2\obj\Debug\net9.0\ref\semana2.dll
+C:\Users\HP\Documents\proyectos de estructura de datos\semana2\obj\Debug\net9.0\semana2.sourcelink.json
