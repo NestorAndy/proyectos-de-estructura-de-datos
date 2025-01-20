@@ -1,0 +1,15 @@
+C:\Users\HP\Documents\proyectos de estructura de datos\semana 6\bin\Debug\net9.0\semana 6.exe
+C:\Users\HP\Documents\proyectos de estructura de datos\semana 6\bin\Debug\net9.0\semana 6.deps.json
+C:\Users\HP\Documents\proyectos de estructura de datos\semana 6\bin\Debug\net9.0\semana 6.runtimeconfig.json
+C:\Users\HP\Documents\proyectos de estructura de datos\semana 6\bin\Debug\net9.0\semana 6.dll
+C:\Users\HP\Documents\proyectos de estructura de datos\semana 6\bin\Debug\net9.0\semana 6.pdb
+C:\Users\HP\Documents\proyectos de estructura de datos\semana 6\obj\Debug\net9.0\semana 6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Documents\proyectos de estructura de datos\semana 6\obj\Debug\net9.0\semana 6.AssemblyInfoInputs.cache
+C:\Users\HP\Documents\proyectos de estructura de datos\semana 6\obj\Debug\net9.0\semana 6.AssemblyInfo.cs
+C:\Users\HP\Documents\proyectos de estructura de datos\semana 6\obj\Debug\net9.0\semana 6.csproj.CoreCompileInputs.cache
+C:\Users\HP\Documents\proyectos de estructura de datos\semana 6\obj\Debug\net9.0\semana 6.sourcelink.json
+C:\Users\HP\Documents\proyectos de estructura de datos\semana 6\obj\Debug\net9.0\semana 6.dll
+C:\Users\HP\Documents\proyectos de estructura de datos\semana 6\obj\Debug\net9.0\refint\semana 6.dll
+C:\Users\HP\Documents\proyectos de estructura de datos\semana 6\obj\Debug\net9.0\semana 6.pdb
+C:\Users\HP\Documents\proyectos de estructura de datos\semana 6\obj\Debug\net9.0\semana 6.genruntimeconfig.cache
+C:\Users\HP\Documents\proyectos de estructura de datos\semana 6\obj\Debug\net9.0\ref\semana 6.dll
