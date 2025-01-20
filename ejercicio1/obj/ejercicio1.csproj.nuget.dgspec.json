@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\HP\\Documents\\proyectos de estructura de datos\\semana 6\\semana 6.csproj": {}
+    "C:\\Users\\HP\\Documents\\proyectos de estructura de datos\\ejercicio1\\ejercicio1.csproj": {}
   },
   "projects": {
-    "C:\\Users\\HP\\Documents\\proyectos de estructura de datos\\semana 6\\semana 6.csproj": {
+    "C:\\Users\\HP\\Documents\\proyectos de estructura de datos\\ejercicio1\\ejercicio1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\HP\\Documents\\proyectos de estructura de datos\\semana 6\\semana 6.csproj",
-        "projectName": "semana 6",
-        "projectPath": "C:\\Users\\HP\\Documents\\proyectos de estructura de datos\\semana 6\\semana 6.csproj",
+        "projectUniqueName": "C:\\Users\\HP\\Documents\\proyectos de estructura de datos\\ejercicio1\\ejercicio1.csproj",
+        "projectName": "ejercicio1",
+        "projectPath": "C:\\Users\\HP\\Documents\\proyectos de estructura de datos\\ejercicio1\\ejercicio1.csproj",
         "packagesPath": "C:\\Users\\HP\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\HP\\Documents\\proyectos de estructura de datos\\semana 6\\obj\\",
+        "outputPath": "C:\\Users\\HP\\Documents\\proyectos de estructura de datos\\ejercicio1\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\HP\\AppData\\Roaming\\NuGet\\NuGet.Config"
