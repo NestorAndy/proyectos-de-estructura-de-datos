@@ -8,6 +8,7 @@ namespace CalcularLongitudLista
         public int Valor;       // Valor del nodo
         public Nodo Siguiente;  // Puntero al siguiente nodo
 
+        // Constructor del nodo que asigna un valor
         public Nodo(int valor)
         {
             Valor = valor;
@@ -20,9 +21,10 @@ namespace CalcularLongitudLista
     {
         public Nodo Cabeza; // Nodo inicial de la lista
 
+        // Constructor que inicializa la lista vacía
         public ListaEnlazada()
         {
-            Cabeza = null; // Inicialmente, la lista está vacía
+            Cabeza = null; // Al comienzo, la lista no tiene elementos
         }
 
         // Método para agregar un nodo al final de la lista
@@ -32,24 +34,27 @@ namespace CalcularLongitudLista
 
             if (Cabeza == null)
             {
-                Cabeza = nuevoNodo; // Si la lista está vacía, el nuevo nodo será la cabeza
+                // Si la lista está vacía, el nuevo nodo será la cabeza
+                Cabeza = nuevoNodo;
             }
             else
             {
+                // Recorre hasta encontrar el último nodo
                 Nodo actual = Cabeza;
                 while (actual.Siguiente != null)
                 {
-                    actual = actual.Siguiente; // Avanzar hasta el último nodo
+                    actual = actual.Siguiente;
                 }
-                actual.Siguiente = nuevoNodo; // Agregar el nuevo nodo al final
+                // Agrega el nuevo nodo al final
+                actual.Siguiente = nuevoNodo;
             }
         }
 
         // Función para calcular la longitud de la lista
         public int CalcularLongitud()
         {
-            int longitud = 0;
-            Nodo actual = Cabeza;
+            int longitud = 0;      // Contador para la longitud
+            Nodo actual = Cabeza;  // Nodo auxiliar para recorrer la lista
 
             while (actual != null) // Recorre mientras haya nodos
             {
@@ -65,12 +70,12 @@ namespace CalcularLongitudLista
         {
             Nodo actual = Cabeza;
 
-            while (actual != null)
+            while (actual != null) // Recorre mientras haya nodos
             {
-                Console.Write(actual.Valor + " ");
-                actual = actual.Siguiente;
+                Console.Write(actual.Valor + " "); // Imprime el valor del nodo
+                actual = actual.Siguiente; // Pasa al siguiente nodo
             }
-            Console.WriteLine();
+            Console.WriteLine(); // Salto de línea después de imprimir todos los valores
         }
     }
 
@@ -96,3 +101,4 @@ namespace CalcularLongitudLista
         }
     }
 }
+
