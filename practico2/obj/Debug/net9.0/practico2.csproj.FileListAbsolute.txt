@@ -1,0 +1,15 @@
+C:\Users\HP\Documents\proyectos de estructura de datos\practico2\bin\Debug\net9.0\practico2.exe
+C:\Users\HP\Documents\proyectos de estructura de datos\practico2\bin\Debug\net9.0\practico2.deps.json
+C:\Users\HP\Documents\proyectos de estructura de datos\practico2\bin\Debug\net9.0\practico2.runtimeconfig.json
+C:\Users\HP\Documents\proyectos de estructura de datos\practico2\bin\Debug\net9.0\practico2.dll
+C:\Users\HP\Documents\proyectos de estructura de datos\practico2\bin\Debug\net9.0\practico2.pdb
+C:\Users\HP\Documents\proyectos de estructura de datos\practico2\obj\Debug\net9.0\practico2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Documents\proyectos de estructura de datos\practico2\obj\Debug\net9.0\practico2.AssemblyInfoInputs.cache
+C:\Users\HP\Documents\proyectos de estructura de datos\practico2\obj\Debug\net9.0\practico2.AssemblyInfo.cs
+C:\Users\HP\Documents\proyectos de estructura de datos\practico2\obj\Debug\net9.0\practico2.csproj.CoreCompileInputs.cache
+C:\Users\HP\Documents\proyectos de estructura de datos\practico2\obj\Debug\net9.0\practico2.sourcelink.json
+C:\Users\HP\Documents\proyectos de estructura de datos\practico2\obj\Debug\net9.0\practico2.dll
+C:\Users\HP\Documents\proyectos de estructura de datos\practico2\obj\Debug\net9.0\refint\practico2.dll
+C:\Users\HP\Documents\proyectos de estructura de datos\practico2\obj\Debug\net9.0\practico2.pdb
+C:\Users\HP\Documents\proyectos de estructura de datos\practico2\obj\Debug\net9.0\practico2.genruntimeconfig.cache
+C:\Users\HP\Documents\proyectos de estructura de datos\practico2\obj\Debug\net9.0\ref\practico2.dll
