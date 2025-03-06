@@ -1,0 +1,15 @@
+C:\Users\HP\Documents\proyectos de estructura de datos\practico experimental.3\bin\Debug\net9.0\practico experimental.3.exe
+C:\Users\HP\Documents\proyectos de estructura de datos\practico experimental.3\bin\Debug\net9.0\practico experimental.3.deps.json
+C:\Users\HP\Documents\proyectos de estructura de datos\practico experimental.3\bin\Debug\net9.0\practico experimental.3.runtimeconfig.json
+C:\Users\HP\Documents\proyectos de estructura de datos\practico experimental.3\bin\Debug\net9.0\practico experimental.3.dll
+C:\Users\HP\Documents\proyectos de estructura de datos\practico experimental.3\bin\Debug\net9.0\practico experimental.3.pdb
+C:\Users\HP\Documents\proyectos de estructura de datos\practico experimental.3\obj\Debug\net9.0\practico experimental.3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Documents\proyectos de estructura de datos\practico experimental.3\obj\Debug\net9.0\practico experimental.3.AssemblyInfoInputs.cache
+C:\Users\HP\Documents\proyectos de estructura de datos\practico experimental.3\obj\Debug\net9.0\practico experimental.3.AssemblyInfo.cs
+C:\Users\HP\Documents\proyectos de estructura de datos\practico experimental.3\obj\Debug\net9.0\practico experimental.3.csproj.CoreCompileInputs.cache
+C:\Users\HP\Documents\proyectos de estructura de datos\practico experimental.3\obj\Debug\net9.0\practico experimental.3.sourcelink.json
+C:\Users\HP\Documents\proyectos de estructura de datos\practico experimental.3\obj\Debug\net9.0\practico experimental.3.dll
+C:\Users\HP\Documents\proyectos de estructura de datos\practico experimental.3\obj\Debug\net9.0\refint\practico experimental.3.dll
+C:\Users\HP\Documents\proyectos de estructura de datos\practico experimental.3\obj\Debug\net9.0\practico experimental.3.pdb
+C:\Users\HP\Documents\proyectos de estructura de datos\practico experimental.3\obj\Debug\net9.0\practico experimental.3.genruntimeconfig.cache
+C:\Users\HP\Documents\proyectos de estructura de datos\practico experimental.3\obj\Debug\net9.0\ref\practico experimental.3.dll
