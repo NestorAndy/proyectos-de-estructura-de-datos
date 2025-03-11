@@ -1,0 +1,15 @@
+C:\Users\HP\Documents\proyectos de estructura de datos\semana 13 catálogo\bin\Debug\net9.0\semana 13 catálogo.exe
+C:\Users\HP\Documents\proyectos de estructura de datos\semana 13 catálogo\bin\Debug\net9.0\semana 13 catálogo.deps.json
+C:\Users\HP\Documents\proyectos de estructura de datos\semana 13 catálogo\bin\Debug\net9.0\semana 13 catálogo.runtimeconfig.json
+C:\Users\HP\Documents\proyectos de estructura de datos\semana 13 catálogo\bin\Debug\net9.0\semana 13 catálogo.dll
+C:\Users\HP\Documents\proyectos de estructura de datos\semana 13 catálogo\bin\Debug\net9.0\semana 13 catálogo.pdb
+C:\Users\HP\Documents\proyectos de estructura de datos\semana 13 catálogo\obj\Debug\net9.0\semana 13 catálogo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Documents\proyectos de estructura de datos\semana 13 catálogo\obj\Debug\net9.0\semana 13 catálogo.AssemblyInfoInputs.cache
+C:\Users\HP\Documents\proyectos de estructura de datos\semana 13 catálogo\obj\Debug\net9.0\semana 13 catálogo.AssemblyInfo.cs
+C:\Users\HP\Documents\proyectos de estructura de datos\semana 13 catálogo\obj\Debug\net9.0\semana 13 catálogo.csproj.CoreCompileInputs.cache
+C:\Users\HP\Documents\proyectos de estructura de datos\semana 13 catálogo\obj\Debug\net9.0\semana 13 catálogo.sourcelink.json
+C:\Users\HP\Documents\proyectos de estructura de datos\semana 13 catálogo\obj\Debug\net9.0\semana 13 catálogo.dll
+C:\Users\HP\Documents\proyectos de estructura de datos\semana 13 catálogo\obj\Debug\net9.0\refint\semana 13 catálogo.dll
+C:\Users\HP\Documents\proyectos de estructura de datos\semana 13 catálogo\obj\Debug\net9.0\semana 13 catálogo.pdb
+C:\Users\HP\Documents\proyectos de estructura de datos\semana 13 catálogo\obj\Debug\net9.0\semana 13 catálogo.genruntimeconfig.cache
+C:\Users\HP\Documents\proyectos de estructura de datos\semana 13 catálogo\obj\Debug\net9.0\ref\semana 13 catálogo.dll

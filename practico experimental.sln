@@ -5,6 +5,8 @@ VisualStudioVersion = 17.0.31903.59
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "practico experimental.3", "practico experimental.3\practico experimental.3.csproj", "{6B24F6FC-B215-4142-BBDF-0D292097F9EA}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "semana 13 catálogo", "semana 13 catálogo\semana 13 catálogo.csproj", "{FDFE9E5C-063F-4D99-943C-8AD245057106}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -18,5 +20,9 @@ Global
 		{6B24F6FC-B215-4142-BBDF-0D292097F9EA}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6B24F6FC-B215-4142-BBDF-0D292097F9EA}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6B24F6FC-B215-4142-BBDF-0D292097F9EA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FDFE9E5C-063F-4D99-943C-8AD245057106}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FDFE9E5C-063F-4D99-943C-8AD245057106}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FDFE9E5C-063F-4D99-943C-8AD245057106}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FDFE9E5C-063F-4D99-943C-8AD245057106}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
