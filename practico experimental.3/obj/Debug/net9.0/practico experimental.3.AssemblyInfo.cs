@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("practico experimental.3")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d47ed83beff1d3ad35d8f465788f393b1a119433")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+661446b05beb9be963205c123fef6cfbab37f775")]
 [assembly: System.Reflection.AssemblyProductAttribute("practico experimental.3")]
 [assembly: System.Reflection.AssemblyTitleAttribute("practico experimental.3")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
